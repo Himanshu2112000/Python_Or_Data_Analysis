@@ -30,14 +30,14 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/ea071ecd-2f79-4b67-b995-c92f16e248b4)
 
 ## Performing naming conventions on a dataset involves ensuring consistent and descriptive names for variables or columns. Here's a step-by-step process:
-   Standardize Case: Choose a consistent case style such as camelCase, snake_case, or TitleCase.
-   Remove Special Characters: Eliminate any special characters, spaces, or symbols in column names to ensure compatibility with programming languages and database systems.
-   Shorten Length: Keep names concise yet descriptive, avoiding excessively long names that may be cumbersome to use.
-   Use Descriptive Names: Choose names that clearly convey the content or meaning of each variable or column. This enhances readability and understanding of the dataset.
-   Avoid Reserved Words: Ensure that names do not conflict with reserved words in the programming language or database system.
-   Consistency: Apply the same naming conventions consistently across all variables or columns in the dataset.
-   Documentation: Document the naming conventions used for future reference, ensuring clarity and maintainability of the dataset.
-   By following these steps, the dataset's naming conventions can be standardized and optimized for clarity, usability, and consistency in data analysis tasks
+   ### Standardize Case: Choose a consistent case style such as camelCase, snake_case, or TitleCase.
+   ### Remove Special Characters: Eliminate any special characters, spaces, or symbols in column names to ensure compatibility with programming languages and database systems.
+   ### Shorten Length: Keep names concise yet descriptive, avoiding excessively long names that may be cumbersome to use.
+   ### Use Descriptive Names: Choose names that clearly convey the content or meaning of each variable or column. This enhances readability and understanding of the dataset.
+   ### Avoid Reserved Words: Ensure that names do not conflict with reserved words in the programming language or database system.
+   ### Consistency: Apply the same naming conventions consistently across all variables or columns in the dataset.
+   ### Documentation: Document the naming conventions used for future reference, ensuring clarity and maintainability of the dataset.
+##By following these steps, the dataset's naming conventions can be standardized and optimized for clarity, usability, and consistency in data analysis tasks
 
 ### Step 2: Check the information: Data type Conversions
 
