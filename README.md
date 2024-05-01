@@ -1,18 +1,20 @@
 # Exploratory Data Analysis of banking variables for a Private Financial firm.
 A comprehensive dataset for analyzing loan-related data using Python. Includes information on loan amounts, interest rates, borrower demographics, and repayment status. Ideal for exploring statistical patterns, risk assessment, and building predictive models in financial analytics.Develops banking variables for financial analysis. Utilizes Python to create robust tools for transaction analysis, risk assessment, and customer profiling. Enhances decision-making processes through comprehensive data insights, improving financial strategies and performance."
 
-##Databases Used:
+## Importing the main Libraries and Data
+
+![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/6cd61665-5cb6-48e1-b4db-9be4bba2c0e4)
+
+**There are 2500 records for 15 variables.**
+
+#Databases Used:
 - ['LoanID', 'Amount.Requested', 'Amount.Funded.By.Investors',
        'Interest.Rate', 'Loan.Length', 'Loan.Purpose', 'Debt.To.Income.Ratio',
        'State', 'Home.Ownership', 'Monthly.Income', 'FICO.Range',
        'Open.CREDIT.Lines', 'Revolving.CREDIT.Balance',
        'Inquiries.in.the.Last.6.Months', 'Employment.Length'],
 
-## Importing the main Libraries and Data
-
-![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/6cd61665-5cb6-48e1-b4db-9be4bba2c0e4)
-
-**There are 2500 records for 15 variables.**
+ ## These columns are essential for Python-based data analysis in finance. They encompass crucial loan parameters such as requested and funded amounts, interest rates, loan length, purpose, borrower demographics, credit history, and employment details. Through Python, comprehensive analysis enables informed decision-making and risk assessment in financial lending processes.
 
 ## EDA: Exploratory Data Analysis
 ### Step1: Variables names following the Naming Convention,
