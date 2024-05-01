@@ -62,7 +62,11 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
 
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/8ff3b7d4-be38-418d-a673-e31be68f0432)
 
+## This code snippet prints the value counts of the 'State' column in the dataset and visualizes the distribution of customers by state using a bar plot. The printed counts provide insights into the frequency of occurrence of each state in the dataset, while the bar plot offers a graphical representation of this distribution, facilitating easier interpretation and analysis.
+
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/4eb98d23-e6a8-4711-a2df-df488b3499f2)
+
+
 
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/280a0c05-1da5-485f-a57b-f94af35128d9)
 
