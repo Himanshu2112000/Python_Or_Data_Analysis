@@ -7,7 +7,7 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
 
 **There are 2500 records for 15 variables.**
 
-#Databases Used:
+## Databases Used:
 - ['LoanID', 'Amount.Requested', 'Amount.Funded.By.Investors',
        'Interest.Rate', 'Loan.Length', 'Loan.Purpose', 'Debt.To.Income.Ratio',
        'State', 'Home.Ownership', 'Monthly.Income', 'FICO.Range',
@@ -18,6 +18,9 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
 
 
 ## EDA: Exploratory Data Analysis
+
+### Conducting Exploratory Data Analysis (EDA) on the dataset to prepare it for effective data analysis. This process involves understanding data distributions, identifying patterns, handling missing values, outliers, and ensuring data quality. By cleaning, transforming, and visualizing data, EDA enhances its usability and enables meaningful insights for further analysis."
+
 ### Step1: Variables names following the Naming Convention,
 
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/0409ce1e-12c7-4874-8c20-10ed5aa4e3f4)
