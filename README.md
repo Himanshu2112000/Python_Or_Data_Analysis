@@ -48,6 +48,8 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
 
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/e8648b90-0233-4cc0-a5c7-295eb8ada881)
 
+## Performing data conversion to align with required analysis involves transforming raw data into a format suitable for the analytical techniques and methods planned for the project. This may include converting data types, aggregating or disaggregating data, standardizing units of measurement, and handling missing or erroneous values. By tailoring the data to meet the specific requirements of the analysis, it becomes more conducive to deriving meaningful insights and drawing accurate conclusions
+
 ## Checking the relevant and irrelevant variables in the first phase of EDA:
 
 ![image](https://github.com/Himanshu2112000/Python_Or_Data_Analysis/assets/164239242/7fa348df-0042-4e73-a6b0-fc7b16c7d756)
