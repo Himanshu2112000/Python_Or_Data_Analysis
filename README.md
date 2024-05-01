@@ -14,7 +14,7 @@ A comprehensive dataset for analyzing loan-related data using Python. Includes i
        'Open.CREDIT.Lines', 'Revolving.CREDIT.Balance',
        'Inquiries.in.the.Last.6.Months', 'Employment.Length'],
 
-## These columns are essential for Python-based data analysis in finance. They encompass crucial loan parameters such as requested and funded amounts, interest rates, loan length, purpose, borrower demographics, credit history, and employment details. Through Python, comprehensive analysis enables informed decision-making and risk assessment in financial lending processes.
+### These columns are essential for Python-based data analysis in finance. They encompass crucial loan parameters such as requested and funded amounts, interest rates, loan length, purpose, borrower demographics, credit history, and employment details. Through Python, comprehensive analysis enables informed decision-making and risk assessment in financial lending processes.
 
 
 ## EDA: Exploratory Data Analysis
