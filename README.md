@@ -1,5 +1,12 @@
 # Exploratory Data Analysis of banking variables for a Private Financial firm.
-A comprehensive dataset for analyzing loan-related data using Python. Includes information on loan amounts, interest rates, borrower demographics, and repayment status. Ideal for exploring statistical patterns, risk assessment, and building predictive models in financial analytics."
+A comprehensive dataset for analyzing loan-related data using Python. Includes information on loan amounts, interest rates, borrower demographics, and repayment status. Ideal for exploring statistical patterns, risk assessment, and building predictive models in financial analytics.Develops banking variables for financial analysis. Utilizes Python to create robust tools for transaction analysis, risk assessment, and customer profiling. Enhances decision-making processes through comprehensive data insights, improving financial strategies and performance."
+
+##Databases Used:
+- ['LoanID', 'Amount.Requested', 'Amount.Funded.By.Investors',
+       'Interest.Rate', 'Loan.Length', 'Loan.Purpose', 'Debt.To.Income.Ratio',
+       'State', 'Home.Ownership', 'Monthly.Income', 'FICO.Range',
+       'Open.CREDIT.Lines', 'Revolving.CREDIT.Balance',
+       'Inquiries.in.the.Last.6.Months', 'Employment.Length'],
 
 ## Importing the main Libraries and Data
 
